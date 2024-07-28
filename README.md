@@ -4,7 +4,7 @@
 
 
 
-- 💬 Ask me about **Data Structure and Algorithum , ReactJs ,NodeJS.**
+- 💬 Ask me about **Data Structure and Algorithum , ReactJs ,NodeJS,Machine learning .**
 
 - 📫 How to reach me **kumaririmple562@gmail.com**
 
